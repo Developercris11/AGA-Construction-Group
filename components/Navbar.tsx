@@ -40,7 +40,7 @@ export default function Navbar() {
                         <div className="flex items-center">
                             <Link href="/" className="flex-shrink-0 flex items-center">
                                 <Image
-                                    src="/logo-new.png"
+                                    src="/logo-white.svg"
                                     alt="AGA Construction Group"
                                     width={400}
                                     height={120}
