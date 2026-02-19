@@ -1,0 +1,219 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "Over Ons",
+        "services": "Diensten",
+        "portfolio": "Projecten",
+        "contact": "Contact",
+        "quote": "Offerte Aanvragen"
+    },
+    "hero": {
+        "title": "Volledige Huisverbetering & Bouwdiensten in Aruba",
+        "subtitle": "Professioneel timmerwerk, vloeren, loodgieterswerk en renovatieservices (Oranjestad & daarbuiten). Kwaliteitsvakmanschap afgestemd op uw behoeften.",
+        "cta_quote": "Vraag een Offerte Aan",
+        "cta_portfolio": "Bekijk Ons Werk"
+    },
+    "homepage_intro": {
+        "content_p1": "AGA Construction Group is een professioneel full-service timmer- en verbouwingsbedrijf op Aruba dat hoogwaardige constructie, maatwerk houtwerk, renovaties en complete vastgoedbouw levert.",
+        "served_title": "Wij bedienen met trots:",
+        "served_list": [
+            "Huiseigenaren op Aruba",
+            "Amerikaanse klanten die vakantie- of investeringsvastgoed bouwen",
+            "Nederlandse investeerders uit Nederland",
+            "Expats die op Aruba wonen en werken"
+        ],
+        "content_p2": "Van nieuwbouw tot keukenrenovaties, badkamerrenovaties, structureel timmerwerk en volledige vastgoedupgrades, ons ervaren team levert vakmanschap gebouwd om lang mee te gaan in het kustklimaat van Aruba."
+    },
+    "services_overview": {
+        "title": "Complete Huisverbeteringsoplossingen",
+        "gsubtitle": "Wij zijn gespecialiseerd in een breed scala aan diensten om uw ruimte met precisie en zorg te verbeteren, repareren en transformeren.",
+        "carpentry": {
+            "title": "Timmerwerk",
+            "desc": "Op maat gemaakte keukens, kasten, deuren en meubels gebouwd met hoogwaardige materialen.",
+            "link": "Meer Lezen"
+        },
+        "flooring": {
+            "title": "Vloeren",
+            "desc": "Professionele installatie van laminaat, vinyl, hardhout en op maat gemaakte vloeroplossingen.",
+            "link": "Meer Lezen"
+        },
+        "plumbing": {
+            "title": "Loodgieterswerk",
+            "desc": "Installatie en reparatie van wastafels, kranen, toiletten, leidingen en loodgieterssystemen.",
+            "link": "Meer Lezen"
+        },
+        "renovation": {
+            "title": "Renovatie",
+            "desc": "Renovaties, reparaties, installaties en complete verbeteringsprojecten voor woningen.",
+            "link": "Meer Lezen"
+        },
+        "custom_home": {
+            "title": "Custom Home Construction",
+            "desc": "Full-service home building from foundation to finish.",
+            "link": "Learn More"
+        },
+        "outdoor": {
+            "title": "Outdoor Structures & Decking",
+            "desc": "Pergolas, gazebos, decks, and outdoor living spaces.",
+            "link": "Learn More"
+        },
+        "rental": {
+            "title": "Rental & Airbnb Upgrades",
+            "desc": "Maximize your rental income with strategic property improvements.",
+            "link": "Learn More"
+        },
+        "general": {
+            "title": "General Contractor Services",
+            "desc": "Project management and general contracting for all your construction needs.",
+            "link": "Learn More"
+        }
+    },
+    "why_choose": {
+        "title": "Waarom kiezen voor AGA Construction Group?",
+        "craftsmanship": {
+            "title": "Professioneel Vakmanschap",
+            "desc": "Wij leveren nauwkeurig, duurzaam en hoogwaardig werk bij elk project, groot of klein."
+        },
+        "experience": {
+            "title": "Lokale Ervaring in Aruba",
+            "desc": "Begrip van de specifieke behoeften van Arubaanse huizen en klimaatomstandigheden."
+        },
+        "reliable": {
+            "title": "Betrouwbare Service",
+            "desc": "Wij respecteren uw tijd en eigendom, en zorgen voor professionele en tijdige afronding."
+        }
+    },
+    "cta_section": {
+        "title": "Klaar om uw project te starten?",
+        "subtitle": "Neem vandaag nog contact met ons op voor een gratis offerte. Wij staan klaar om u te helpen uw huis of bedrijf te verbeteren.",
+        "btn_quote": "Gratis Offerte Ontvangen",
+        "btn_whatsapp": "WhatsApp Ons"
+    },
+    "footer": {
+        "rights": "Alle rechten voorbehouden.",
+        "description": "Full-service woningverbeterings- en bouwbedrijf gevestigd in Oranjestad, Aruba. Gespecialiseerd in timmerwerk, vloeren, loodgieterswerk en complete renovaties.",
+        "quick_links": "Snelle Links",
+        "contact_us": "Neem Contact Op",
+        "follow_us": "Volg Ons",
+        "location": "Locatie: Oranjestad, Aruba",
+        "email": "E-mail: [E-mailadres]",
+        "phone": "Telefoon: [Telefoonnummer]"
+    },
+    "portfolio": {
+        "title": "Onze Projecten",
+        "subtitle": "Bekijk onze voltooide projecten, waaronder timmerwerk, vloeren, loodgieterswerk en renovatiewerk.",
+        "categories": {
+            "all": "Alles",
+            "carpentry": "Timmerwerk",
+            "flooring": "Vloeren",
+            "plumbing": "Loodgieterswerk",
+            "renovation": "Renovatie"
+        }
+    },
+    "services_page": {
+        "title": "Onze Diensten",
+        "subtitle": "Wij bieden complete huisverbeterings- en bouwdiensten afgestemd op uw behoeften.",
+        "items": {
+            "carpentry": {
+                "title": "Timmerwerk Diensten",
+                "description": "Wij ontwerpen en bouwen op maat gemaakte houtoplossingen die functionaliteit, duurzaamheid en modern design combineren.",
+                "list": [
+                    "Op Maat Gemaakte Keukens",
+                    "Kasten en Garderobes",
+                    "Kasten en Opslagoplossingen",
+                    "Deuren en Kozijnen",
+                    "Op Maat Gemaakte Meubels",
+                    "Houtreparaties en Restauratie"
+                ]
+            },
+            "flooring": {
+                "title": "Vloerinstallatiediensten",
+                "description": "Wij installeren duurzame, moderne en hoogwaardige vloeren om uw ruimte te verbeteren.",
+                "list": [
+                    "Laminaatvloer Installatie",
+                    "Vinylvloer Installatie",
+                    "Hardhouten Vloer Installatie",
+                    "Vloervervanging",
+                    "Vloerreparaties"
+                ]
+            },
+            "plumbing": {
+                "title": "Loodgietersdiensten",
+                "description": "Wij bieden betrouwbare installatie- en reparatiediensten voor loodgieterswerk.",
+                "list": [
+                    "Wastafelinstallatie",
+                    "Kraaninstallatie",
+                    "Toiletinstallatie",
+                    "Lekkage Reparaties",
+                    "Leidingvervanging"
+                ]
+            },
+            "renovation": {
+                "title": "Huisverbetering & Bouw",
+                "description": "Wij bieden complete oplossingen voor het verbeteren en upgraden van uw eigendom.",
+                "list": [
+                    "Huisrenovaties",
+                    "Reparaties en Onderhoud",
+                    "Installaties",
+                    "Verbouwingsprojecten",
+                    "Algemene Bouwdiensten"
+                ]
+            }
+        }
+    },
+    "contact_page": {
+        "title": "Neem Contact Op",
+        "subtitle": "Wij staan klaar om u te helpen met uw project. Neem vandaag nog contact met ons op.",
+        "get_in_touch": "Neem Contact Op",
+        "phone": {
+            "title": "Telefoon",
+            "value": "[Telefoonnummer]",
+            "availability": "Beschikbaar Ma-Za, 8:00 - 18:00"
+        },
+        "email": {
+            "title": "E-mail",
+            "value": "[E-mailadres]"
+        },
+        "location": {
+            "title": "Locatie",
+            "value": "Oranjestad, Aruba",
+            "serving": "Bedient alle districten van Aruba"
+        },
+        "whatsapp_button": "Chat met Ons op WhatsApp"
+    },
+    "about_page": {
+        "title": "Over Ons",
+        "subtitle": "Professionele Huisverbetering & Bouwdiensten in Aruba.",
+        "story": {
+            "title": "Ons Verhaal",
+            "p1": "AGA Construction Group is een full-service huisverbeterings- en bouwbedrijf gevestigd in Oranjestad, Aruba. Wij zijn gespecialiseerd in timmerwerk, vloerinstallatie, loodgieterswerk en complete renovatiediensten voor residentiële en commerciële eigendommen.",
+            "p2": "Onze missie is om hoogwaardig vakmanschap, betrouwbare service en professionele resultaten te leveren bij elk project, ongeacht de omvang. Wij zijn toegewijd aan het leveren van duurzame, functionele en visueel aantrekkelijke oplossingen, afgestemd op de behoeften van elke klant."
+        },
+        "mission": {
+            "title": "Onze Missie",
+            "desc": "Het leveren van betrouwbare, professionele en hoogwaardige huisverbeteringsdiensten die het comfort, de functionaliteit en de waarde van uw eigendom verbeteren."
+        },
+        "vision": {
+            "title": "Onze Visie",
+            "desc": "Een vertrouwd en erkend huisverbeterings- en bouwbedrijf in Aruba zijn, bekend om kwaliteitswerk, professionaliteit en klanttevredenheid."
+        },
+        "service_areas": {
+            "title": "Servicegebieden",
+            "surrounding": "En omliggende gebieden in heel Aruba."
+        }
+    },
+    "build_in_aruba": {
+        "title": "Huis Bouwen of Verbouwen op Aruba",
+        "subtitle": "Wilt u een huis bouwen op Aruba of investeren in vastgoed?",
+        "work_with_title": "Wij helpen met:",
+        "work_with_list": [
+            "Nieuwbouw op Aruba",
+            "Vastgoed renovatie",
+            "Keuken en badkamer verbouwing",
+            "Investeren in huurwoningen",
+            "Projectontwikkeling"
+        ],
+        "content_p1": "AGA Construction Group biedt professionele bouw- en verbouwingsdiensten op Aruba voor klanten uit Nederland en lokale bewoners.",
+        "content_p2": "Wij combineren vakmanschap met duidelijke communicatie en betrouwbare planning. Neem contact met ons op voor uw bouwproject op Aruba."
+    }
+}

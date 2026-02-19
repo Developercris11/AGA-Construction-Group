@@ -1,0 +1,218 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "portfolio": "Projects",
+        "contact": "Contact",
+        "quote": "Request Quote"
+    },
+    "hero": {
+        "title": "Full-Service Carpentry & Remodeling in Aruba",
+        "subtitle": "Professional carpentry, flooring, plumbing, and renovation services (Oranjestad & beyond). Quality craftsmanship tailored to your needs.",
+        "cta_quote": "Request a Quote",
+        "cta_portfolio": "View Our Work"
+    },
+    "homepage_intro": {
+        "content_p1": "AGA Construction Group is a professional full-service carpentry and remodeling company in Aruba delivering high-quality construction, custom woodwork, renovations, and complete property builds.",
+        "served_title": "We proudly serve:",
+        "served_list": [
+            "Homeowners in Aruba",
+            "U.S. clients building vacation or investment properties",
+            "Dutch investors from the Netherlands",
+            "Expats living and working in Aruba"
+        ],
+        "content_p2": "From custom home construction to kitchen remodels, bathroom renovations, structural carpentry, and full property upgrades, our experienced team provides craftsmanship built to last in Aruba’s coastal climate."
+    },
+    "services_overview": {
+        "title": "Our Services",
+        "gsubtitle": "Custom Home Construction in Aruba • Kitchen Remodeling Aruba • Bathroom Renovations Aruba • Custom Carpentry & Woodwork • Outdoor Structures & Decking • Investment Property Renovation • Rental & Airbnb Property Upgrades • General Contractor Services Aruba",
+        "carpentry": {
+            "title": "Custom Carpentry & Woodwork",
+            "desc": "Custom kitchens, closets, cabinets, doors, and furniture built with high-quality materials.",
+            "link": "Learn More"
+        },
+        "flooring": {
+            "title": "Kitchen Remodeling Aruba",
+            "desc": "Professional installation of laminate, vinyl, hardwood, and custom flooring solutions.",
+            "link": "Learn More"
+        },
+        "plumbing": {
+            "title": "Bathroom Renovations Aruba",
+            "desc": "Installation and repair of sinks, faucets, toilets, pipes, and plumbing systems.",
+            "link": "Learn More"
+        },
+        "renovation": {
+            "title": "Investment Property Renovation",
+            "desc": "Renovations, repairs, installations, and complete improvement projects for homes.",
+            "link": "Learn More"
+        },
+        "custom_home": {
+            "title": "Custom Home Construction",
+            "desc": "Full-service home building from foundation to finish.",
+            "link": "Learn More"
+        },
+        "outdoor": {
+            "title": "Outdoor Structures & Decking",
+            "desc": "Pergolas, gazebos, decks, and outdoor living spaces.",
+            "link": "Learn More"
+        },
+        "rental": {
+            "title": "Rental & Airbnb Upgrades",
+            "desc": "Maximize your rental income with strategic property improvements.",
+            "link": "Learn More"
+        },
+        "general": {
+            "title": "General Contractor Services",
+            "desc": "Project management and general contracting for all your construction needs.",
+            "link": "Learn More"
+        }
+    },
+    "why_choose": {
+        "title": "Why Choose AGA Construction Group?",
+        "craftsmanship": {
+            "title": "Professional Craftsmanship",
+            "desc": "We deliver precise, durable, and high-quality work on every project, big or small."
+        },
+        "experience": {
+            "title": "Local Experience in Aruba",
+            "desc": "Understanding the specific needs of Aruban homes and climate conditions."
+        },
+        "reliable": {
+            "title": "Reliable Service",
+            "desc": "We respect your time and property, ensuring professional and timely completion."
+        }
+    },
+    "cta_section": {
+        "title": "Ready to Start Your Project?",
+        "subtitle": "Contact us today for a free quote. We are ready to help you improve your home or business.",
+        "btn_quote": "Get Free Quote",
+        "btn_whatsapp": "WhatsApp Us"
+    },
+    "footer": {
+        "rights": "All rights reserved.",
+        "description": "Full-Service Home Improvement & Construction Company based in Oranjestad, Aruba. Specializing in carpentry, flooring, plumbing, and complete renovations.",
+        "quick_links": "Quick Links",
+        "contact_us": "Contact Us",
+        "follow_us": "Follow Us",
+        "location": "Location: Oranjestad, Aruba",
+        "email": "Email: [Email Address]",
+        "phone": "Phone: [Phone Number]"
+    },
+    "portfolio": {
+        "title": "Our Projects",
+        "subtitle": "Explore our completed projects, including carpentry, flooring, plumbing, and renovation work.",
+        "categories": {
+            "all": "All",
+            "carpentry": "Carpentry",
+            "flooring": "Flooring",
+            "plumbing": "Plumbing",
+            "renovation": "Renovation"
+        }
+    },
+    "services_page": {
+        "title": "Our Services",
+        "subtitle": "We offer complete home improvement and construction services tailored to your needs.",
+        "items": {
+            "carpentry": {
+                "title": "Carpentry Services",
+                "description": "We design and build custom wood solutions that combine functionality, durability, and modern design.",
+                "list": [
+                    "Custom Kitchens",
+                    "Closets and Wardrobes",
+                    "Cabinets and Storage Solutions",
+                    "Doors and Frames",
+                    "Custom Furniture",
+                    "Wood Repairs and Restoration"
+                ]
+            },
+            "flooring": {
+                "title": "Flooring Installation Services",
+                "description": "We install durable, modern, and high-quality flooring to enhance your space.",
+                "list": [
+                    "Laminate Flooring Installation",
+                    "Vinyl Flooring Installation",
+                    "Hardwood Flooring Installation",
+                    "Floor Replacement",
+                    "Floor Repairs"
+                ]
+            },
+            "plumbing": {
+                "title": "Plumbing Services",
+                "description": "We provide reliable plumbing installation and repair services.",
+                "list": [
+                    "Sink Installation",
+                    "Faucet Installation",
+                    "Toilet Installation",
+                    "Leak Repairs",
+                    "Pipe Replacement"
+                ]
+            },
+            "renovation": {
+                "title": "Home Improvement & Construction",
+                "description": "We provide complete solutions for improving and upgrading your property.",
+                "list": [
+                    "Home Renovations",
+                    "Repairs and Maintenance",
+                    "Installations",
+                    "Remodeling Projects",
+                    "General Construction Services"
+                ]
+            }
+        }
+    },
+    "contact_page": {
+        "title": "Contact Us",
+        "subtitle": "We are ready to help you with your project. Reach out to us today.",
+        "get_in_touch": "Get in Touch",
+        "phone": {
+            "title": "Phone",
+            "value": "[Phone Number]",
+            "availability": "Available Mon-Sat, 8am - 6pm"
+        },
+        "email": {
+            "title": "Email",
+            "value": "[Email Address]"
+        },
+        "location": {
+            "title": "Location",
+            "value": "Oranjestad, Aruba",
+            "serving": "Serving all districts of Aruba"
+        },
+        "whatsapp_button": "Chat with Us on WhatsApp"
+    },
+    "about_page": {
+        "title": "About Us",
+        "subtitle": "Professional Home Improvement & Construction Services in Aruba.",
+        "story": {
+            "title": "Our Story",
+            "p1": "AGA Construction Group is a full-service home improvement and construction company based in Oranjestad, Aruba. We specialize in carpentry, flooring installation, plumbing, and complete renovation services for residential and commercial properties.",
+            "p2": "Our mission is to provide high-quality craftsmanship, reliable service, and professional results on every project, regardless of size. We are committed to delivering durable, functional, and visually appealing solutions tailored to each client's needs."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "desc": "To provide reliable, professional, and high-quality home improvement services that improve the comfort, functionality, and value of your property."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "desc": "To be a trusted and recognized home improvement and construction company in Aruba, known for quality work, professionalism, and customer satisfaction."
+        },
+        "service_areas": {
+            "title": "Service Areas",
+            "surrounding": "And surrounding areas across Aruba."
+        }
+    },
+    "build_in_aruba": {
+        "title": "Build a Home or Investment Property in Aruba",
+        "subtitle": "Looking to build a house in Aruba? AGA Construction Group specializes in full-service construction and remodeling for both local and international clients.",
+        "work_with_title": "We work with:",
+        "work_with_list": [
+            "Americans investing in Aruba real estate",
+            "Dutch homeowners building second homes",
+            "Property investors developing rental units",
+            "Local families building custom homes"
+        ],
+        "content_p1": "Building in Aruba requires local knowledge, climate expertise, and reliable project management. Our team guides you from foundation to final finishes, ensuring quality, transparency, and on-time completion.",
+        "content_p2": "Whether you're building a vacation home, remodeling an investment property, or developing rental units, AGA Construction Group is your trusted construction partner in Aruba."
+    }
+}

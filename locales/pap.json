@@ -1,0 +1,218 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "Tocante Nosotros",
+        "services": "Servicionan",
+        "portfolio": "Proyectonan",
+        "contact": "Contacto",
+        "quote": "Pidi Oferta"
+    },
+    "hero": {
+        "title": "Servicio Completo di Carpinteria & Renovacion na Aruba",
+        "subtitle": "Servicionan profesional di carpinteria, vloer, loodgieter, y renovacion (Oranjestad & mas). Trabou di calidad na bo medida.",
+        "cta_quote": "Pidi un Oferta",
+        "cta_portfolio": "Wak Nos Trabou"
+    },
+    "homepage_intro": {
+        "content_p1": "AGA Construction Group is a professional full-service carpentry and remodeling company in Aruba delivering high-quality construction, custom woodwork, renovations, and complete property builds.",
+        "served_title": "We proudly serve:",
+        "served_list": [
+            "Homeowners in Aruba",
+            "U.S. clients building vacation or investment properties",
+            "Dutch investors from the Netherlands",
+            "Expats living and working in Aruba"
+        ],
+        "content_p2": "From custom home construction to kitchen remodels, bathroom renovations, structural carpentry, and full property upgrades, our experienced team provides craftsmanship built to last in Aruba’s coastal climate."
+    },
+    "services_overview": {
+        "title": "Nos Servicionan",
+        "gsubtitle": "Custom Home Construction in Aruba • Kitchen Remodeling Aruba • Bathroom Renovations Aruba • Custom Carpentry & Woodwork • Outdoor Structures & Decking • Investment Property Renovation • Rental & Airbnb Property Upgrades • General Contractor Services Aruba",
+        "carpentry": {
+            "title": "Custom Carpentry & Woodwork",
+            "desc": "Custom kitchens, closets, cabinets, doors, and furniture built with high-quality materials.",
+            "link": "Learn More"
+        },
+        "flooring": {
+            "title": "Kitchen Remodeling Aruba",
+            "desc": "Professional installation of laminate, vinyl, hardwood, and custom flooring solutions.",
+            "link": "Learn More"
+        },
+        "plumbing": {
+            "title": "Bathroom Renovations Aruba",
+            "desc": "Installation and repair of sinks, faucets, toilets, pipes, and plumbing systems.",
+            "link": "Learn More"
+        },
+        "renovation": {
+            "title": "Investment Property Renovation",
+            "desc": "Renovations, repairs, installations, and complete improvement projects for homes.",
+            "link": "Learn More"
+        },
+        "custom_home": {
+            "title": "Custom Home Construction",
+            "desc": "Full-service home building from foundation to finish.",
+            "link": "Learn More"
+        },
+        "outdoor": {
+            "title": "Outdoor Structures & Decking",
+            "desc": "Pergolas, gazebos, decks, and outdoor living spaces.",
+            "link": "Learn More"
+        },
+        "rental": {
+            "title": "Rental & Airbnb Upgrades",
+            "desc": "Maximize your rental income with strategic property improvements.",
+            "link": "Learn More"
+        },
+        "general": {
+            "title": "General Contractor Services",
+            "desc": "Project management and general contracting for all your construction needs.",
+            "link": "Learn More"
+        }
+    },
+    "why_choose": {
+        "title": "Dicon Kies AGA Construction Group?",
+        "craftsmanship": {
+            "title": "Vakmanschap Profesional",
+            "desc": "Nos ta entrega trabou preciso, duradero, y di halto calidad na cada proyecto, grandi of chikito."
+        },
+        "experience": {
+            "title": "Experencia Local na Aruba",
+            "desc": "Nos ta compronde e necesidadnan specifico di casnan na Aruba y e condicionnan di clima."
+        },
+        "reliable": {
+            "title": "Servicio Confibale",
+            "desc": "Nos ta respeta bo tempo y propiedad, asegurando un finalisacion profesional y na tempo."
+        }
+    },
+    "cta_section": {
+        "title": "Cla pa cuminsa bo proyecto?",
+        "subtitle": "Tum contact cu nos awe pa un oferta gratis. Nos ta cla pa yuda bo mehora bo cas of negoshi.",
+        "btn_quote": "Haya Oferta Gratis",
+        "btn_whatsapp": "WhatsApp Nos"
+    },
+    "footer": {
+        "rights": "Tur derecho reserva.",
+        "description": "Compania di Mehoracion di Cas & Construccion Full-Service basa na Oranjestad, Aruba. Specialisa den carpinteria, instalacion di vloer, loodgieter, y renovacionnan completo.",
+        "quick_links": "Linknan Rapido",
+        "contact_us": "Tum Contact",
+        "follow_us": "Sigui Nos",
+        "location": "Ubicacion: Oranjestad, Aruba",
+        "email": "Email: [Email Address]",
+        "phone": "Telefon: [Phone Number]"
+    },
+    "portfolio": {
+        "title": "Nos Proyectonan",
+        "subtitle": "Explora nos proyectonan completa, incluyendo carpinteria, vloer, loodgieter, y trabou di renovacion.",
+        "categories": {
+            "all": "Tur",
+            "carpentry": "Carpinteria",
+            "flooring": "Vloer",
+            "plumbing": "Loodgieter",
+            "renovation": "Renovacion"
+        }
+    },
+    "services_page": {
+        "title": "Nos Servicionan",
+        "subtitle": "Nos ta ofrece servicionan completo di mehoracion di cas y construccion na bo medida.",
+        "items": {
+            "carpentry": {
+                "title": "Servicionan di Carpinteria",
+                "description": "Nos ta diseña y traha solucionnan di madera na medida cu ta combina funcionalidad, durabilidad, y diseño moderno.",
+                "list": [
+                    "Cushina na Medida",
+                    "Kashi y Wardrobe",
+                    "Kashi y Solucionnan di Warda",
+                    "Porta y Kozijn",
+                    "Muebles na Medida",
+                    "Reparacion y Restauracion di Madera"
+                ]
+            },
+            "flooring": {
+                "title": "Servicionan di Instalacion di Vloer",
+                "description": "Nos ta instala vloernan duradero, moderno, y di halto calidad pa mehora bo espacio.",
+                "list": [
+                    "Instalacion di Laminate",
+                    "Instalacion di Vinyl",
+                    "Instalacion di Hardwood",
+                    "Reemplaso di Vloer",
+                    "Reparacion di Vloer"
+                ]
+            },
+            "plumbing": {
+                "title": "Servicionan di Loodgieter",
+                "description": "Nos ta brinda servicionan confibale di instalacion y reparacion di loodgieter.",
+                "list": [
+                    "Instalacion di Bak",
+                    "Instalacion di Kraan",
+                    "Instalacion di Toilet",
+                    "Reparacion di Lek",
+                    "Reemplaso di Tubo"
+                ]
+            },
+            "renovation": {
+                "title": "Mehoracion di Cas & Construccion",
+                "description": "Nos ta brinda solucionnan completo pa mehora y upgrade bo propiedad.",
+                "list": [
+                    "Renovacion di Cas",
+                    "Reparacion y Mantenimento",
+                    "Instalacionnan",
+                    "Proyectonan di Remodelacion",
+                    "Servicionan General di Construccion"
+                ]
+            }
+        }
+    },
+    "contact_page": {
+        "title": "Tum Contact",
+        "subtitle": "Nos ta cla pa yuda bo cu bo proyecto. Tum contact cu nos awe.",
+        "get_in_touch": "Pone den Contacto",
+        "phone": {
+            "title": "Telefon",
+            "value": "[Phone Number]",
+            "availability": "Disponibel Lun-Sab, 8am - 6pm"
+        },
+        "email": {
+            "title": "Email",
+            "value": "[Email Address]"
+        },
+        "location": {
+            "title": "Ubicacion",
+            "value": "Oranjestad, Aruba",
+            "serving": "Sirbiendo tur districto di Aruba"
+        },
+        "whatsapp_button": "Chat cu Nos riba WhatsApp"
+    },
+    "about_page": {
+        "title": "Tocante Nosotros",
+        "subtitle": "Servicio Profesional di Mehoracion di Cas & Construccion na Aruba.",
+        "story": {
+            "title": "Nos Historia",
+            "p1": "AGA Construction Group ta un compania di mehoracion di cas y construccion full-service basa na Oranjestad, Aruba. Nos ta specialisa den carpinteria, instalacion di vloer, loodgieter, y servicionan completo di renovacion pa propiedadnan residencial y comercial.",
+            "p2": "Nos mision ta pa brinda vakmanschap di halto calidad, servicio confibale, y resultadonan profesional na cada proyecto, sin importa e grandura. Nos ta comprometi pa entrega solucionnan duradero, funcional, y visualmente atractivo na medida di e necesidadnan di cada cliente."
+        },
+        "mission": {
+            "title": "Nos Mision",
+            "desc": "Pa brinda servicionan di mehoracion di cas confibale, profesional, y di halto calidad cu ta mehora e comodidad, funcionalidad, y balor di bo propiedad."
+        },
+        "vision": {
+            "title": "Nos Vision",
+            "desc": "Pa ta un compania di mehoracion di cas y construccion confia y reconoci na Aruba, conoci pa trabou di calidad, profesionalismo, y satisfaccion di cliente."
+        },
+        "service_areas": {
+            "title": "Areanan di Servicio",
+            "surrounding": "Y areanan rond di Aruba."
+        }
+    },
+    "build_in_aruba": {
+        "title": "Build a Home or Investment Property in Aruba",
+        "subtitle": "Looking to build a house in Aruba? AGA Construction Group specializes in full-service construction and remodeling for both local and international clients.",
+        "work_with_title": "We work with:",
+        "work_with_list": [
+            "Americans investing in Aruba real estate",
+            "Dutch homeowners building second homes",
+            "Property investors developing rental units",
+            "Local families building custom homes"
+        ],
+        "content_p1": "Building in Aruba requires local knowledge, climate expertise, and reliable project management. Our team guides you from foundation to final finishes, ensuring quality, transparency, and on-time completion.",
+        "content_p2": "Whether you're building a vacation home, remodeling an investment property, or developing rental units, AGA Construction Group is your trusted construction partner in Aruba."
+    }
+}
