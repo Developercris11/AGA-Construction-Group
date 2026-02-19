@@ -39,12 +39,22 @@ export default function Navbar() {
                     <div className="flex justify-between h-32">
                         <div className="flex items-center">
                             <Link href="/" className="flex-shrink-0 flex items-center">
+                                {/* Light Mode Logo */}
+                                <Image
+                                    src="/logo-new.png"
+                                    alt="AGA Construction Group"
+                                    width={400}
+                                    height={120}
+                                    className="h-28 w-auto mr-2 dark:hidden"
+                                    priority
+                                />
+                                {/* Dark Mode Logo */}
                                 <Image
                                     src="/logo-white.svg"
                                     alt="AGA Construction Group"
                                     width={400}
                                     height={120}
-                                    className="h-28 w-auto mr-2"
+                                    className="h-28 w-auto mr-2 hidden dark:block"
                                     priority
                                 />
                             </Link>
