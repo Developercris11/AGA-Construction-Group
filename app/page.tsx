@@ -51,17 +51,7 @@ export default function Home() {
             {t('homepage_intro.content_p1')}
           </p>
 
-          <div className="bg-blue-50 dark:bg-blue-900/20 p-8 rounded-2xl mb-8">
-            <h3 className="text-lg font-bold uppercase tracking-wider text-blue-800 dark:text-blue-300 mb-4">{t('homepage_intro.served_title')}</h3>
-            <ul className="grid grid-cols-1 md:grid-cols-2 gap-3 text-left max-w-2xl mx-auto">
-              {(t('homepage_intro.served_list', { returnObjects: true }) as string[]).map((item, index) => (
-                <li key={index} className="flex items-center text-gray-700 dark:text-gray-300">
-                  <span className="w-2 h-2 bg-blue-500 rounded-full mr-3 flex-shrink-0"></span>
-                  {item}
-                </li>
-              ))}
-            </ul>
-          </div>
+
 
           <p className="text-lg text-gray-600 dark:text-gray-300">
             {t('homepage_intro.content_p2')}
