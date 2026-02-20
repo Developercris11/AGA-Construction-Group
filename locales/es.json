@@ -14,14 +14,14 @@
         "cta_portfolio": "Ver Nuestro Trabajo"
     },
     "homepage_intro": {
-        "content_p1": "AGA Construction Group is a professional full-service carpentry and remodeling company in Aruba delivering high-quality construction, custom woodwork, renovations, and complete property builds.",
-        "served_title": "We proudly serve:",
+        "content_p1": "AGA Construction Group es una empresa profesional de carpintería y remodelación de servicio completo en Aruba que ofrece construcción de alta calidad, trabajos en madera personalizados, renovaciones y construcciones completas de propiedades.",
+        "served_title": "Orgullosamente servimos a:",
         "served_list": [
-            "Homeowners in Aruba",
-            "U.S. clients building vacation or investment properties",
-            "Dutch investors from the Netherlands"
+            "Propietarios en Aruba",
+            "Clientes de EE. UU. que construyen propiedades vacacionales o de inversión",
+            "Inversores holandeses de los Países Bajos"
         ],
-        "content_p2": "From custom home construction to kitchen remodels, bathroom renovations, structural carpentry, and full property upgrades, our experienced team provides craftsmanship built to last in Aruba’s coastal climate."
+        "content_p2": "Desde la construcción de casas personalizadas hasta remodelaciones de cocinas, renovaciones de baños, carpintería estructural y mejoras completas de propiedades, nuestro experimentado equipo ofrece una artesanía construida para durar en el clima costero de Aruba."
     },
     "services_overview": {
         "title": "Nuestros Servicios",
