@@ -34,27 +34,18 @@ export default function Navbar() {
                 </div>
             </div>
 
-            <nav className="bg-white dark:bg-gray-900 shadow-md sticky top-0 z-50 transition-colors border-b border-transparent dark:border-gray-800">
+            <nav className="bg-white shadow-md sticky top-0 z-50 transition-colors border-b border-transparent">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between h-32">
                         <div className="flex items-center">
                             <Link href="/" className="flex-shrink-0 flex items-center">
-                                {/* Light Mode Logo */}
+                                {/* Logo */}
                                 <Image
                                     src="/logo-new.png"
                                     alt="AGA Construction Group"
                                     width={400}
                                     height={120}
-                                    className="h-28 w-auto mr-2 dark:hidden"
-                                    priority
-                                />
-                                {/* Dark Mode Logo */}
-                                <Image
-                                    src="/logo-white.svg"
-                                    alt="AGA Construction Group"
-                                    width={400}
-                                    height={120}
-                                    className="h-28 w-auto mr-2 hidden dark:block"
+                                    className="h-28 w-auto mr-2"
                                     priority
                                 />
                             </Link>
@@ -65,7 +56,7 @@ export default function Navbar() {
                                 <Link
                                     key={item.href} // Key should be href as name changes with lang
                                     href={item.href}
-                                    className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                    className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
                                 >
                                     {item.name}
                                 </Link>
@@ -98,12 +89,12 @@ export default function Navbar() {
 
                 {/* Mobile menu */}
                 <div className={cn("md:hidden", isOpen ? "block" : "hidden")}>
-                    <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white dark:bg-gray-900 border-t dark:border-gray-800">
+                    <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t">
                         {navigation.map((item) => (
                             <Link
                                 key={item.href}
                                 href={item.href}
-                                className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-gray-50 dark:hover:bg-gray-800"
+                                className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
                                 onClick={() => setIsOpen(false)}
                             >
                                 {item.name}

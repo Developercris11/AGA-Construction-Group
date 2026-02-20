@@ -47,13 +47,13 @@ export default function Home() {
       {/* Intro Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="max-w-4xl mx-auto">
-          <p className="text-xl md:text-2xl font-medium text-gray-900 dark:text-white mb-6 leading-relaxed">
+          <p className="text-xl md:text-2xl font-medium text-gray-900 mb-6 leading-relaxed">
             {t('homepage_intro.content_p1')}
           </p>
 
 
 
-          <p className="text-lg text-gray-600 dark:text-gray-300">
+          <p className="text-lg text-gray-600">
             {t('homepage_intro.content_p2')}
           </p>
         </div>
@@ -62,10 +62,10 @@ export default function Home() {
       {/* Services Overview */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500">
             {t('services_overview.title')}
           </h2>
-          <p className="text-lg text-gray-600 dark:text-gray-300 max-w-4xl mx-auto leading-relaxed">
+          <p className="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
             {t('services_overview.gsubtitle')}
           </p>
         </div>
@@ -81,17 +81,17 @@ export default function Home() {
             { id: 'rental', icon: HomeIcon, color: 'indigo' },
             { id: 'general', icon: Wrench, color: 'gray' },
           ].map((service) => (
-            <div key={service.id} className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-sm border border-gray-100 dark:border-gray-700 hover:shadow-md transition-shadow text-center flex flex-col h-full">
-              <div className={`w-12 h-12 bg-${service.color}-100 dark:bg-${service.color}-900/30 text-${service.color}-600 dark:text-${service.color}-400 rounded-full flex items-center justify-center mx-auto mb-4`}>
+            <div key={service.id} className="bg-white p-6 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition-shadow text-center flex flex-col h-full">
+              <div className={`w-12 h-12 bg-${service.color}-100 text-${service.color}-600 rounded-full flex items-center justify-center mx-auto mb-4`}>
                 <service.icon className="h-6 w-6" />
               </div>
-              <h3 className="text-lg font-bold mb-2 text-gray-900 dark:text-white line-clamp-2 min-h-[3.5rem] flex items-center justify-center">
+              <h3 className="text-lg font-bold mb-2 text-gray-900 line-clamp-2 min-h-[3.5rem] flex items-center justify-center">
                 {t(`services_overview.${service.id}.title`)}
               </h3>
-              <p className="text-gray-600 dark:text-gray-300 mb-4 text-sm flex-grow">
+              <p className="text-gray-600 mb-4 text-sm flex-grow">
                 {t(`services_overview.${service.id}.desc`)}
               </p>
-              <Link href="/services" className={`text-${service.color}-600 dark:text-${service.color}-400 hover:text-${service.color}-800 dark:hover:text-${service.color}-300 text-sm font-medium flex items-center justify-center mt-auto`}>
+              <Link href="/services" className={`text-${service.color}-600 hover:text-${service.color}-800 text-sm font-medium flex items-center justify-center mt-auto`}>
                 {t(`services_overview.${service.id}.link`)} <ArrowRight className="ml-1 h-4 w-4" />
               </Link>
             </div>
@@ -100,23 +100,23 @@ export default function Home() {
       </section>
 
       {/* Why Choose Us */}
-      <section className="bg-gray-50 dark:bg-gray-900/50 py-16 transition-colors">
+      <section className="bg-gray-50 py-16 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 dark:text-white">{t('why_choose.title')}</h2>
+            <h2 className="text-3xl font-bold text-gray-900">{t('why_choose.title')}</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
-            <div className="p-6 bg-white dark:bg-gray-800 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-2">{t('why_choose.craftsmanship.title')}</h3>
-              <p className="text-gray-600 dark:text-gray-300">{t('why_choose.craftsmanship.desc')}</p>
+            <div className="p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <h3 className="text-lg font-bold text-gray-900 mb-2">{t('why_choose.craftsmanship.title')}</h3>
+              <p className="text-gray-600">{t('why_choose.craftsmanship.desc')}</p>
             </div>
-            <div className="p-6 bg-white dark:bg-gray-800 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-2">{t('why_choose.experience.title')}</h3>
-              <p className="text-gray-600 dark:text-gray-300">{t('why_choose.experience.desc')}</p>
+            <div className="p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <h3 className="text-lg font-bold text-gray-900 mb-2">{t('why_choose.experience.title')}</h3>
+              <p className="text-gray-600">{t('why_choose.experience.desc')}</p>
             </div>
-            <div className="p-6 bg-white dark:bg-gray-800 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-2">{t('why_choose.reliable.title')}</h3>
-              <p className="text-gray-600 dark:text-gray-300">{t('why_choose.reliable.desc')}</p>
+            <div className="p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <h3 className="text-lg font-bold text-gray-900 mb-2">{t('why_choose.reliable.title')}</h3>
+              <p className="text-gray-600">{t('why_choose.reliable.desc')}</p>
             </div>
           </div>
         </div>
